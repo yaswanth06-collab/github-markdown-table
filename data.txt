@@ -1,1 +1,6 @@
-Sample Data File
+GitHub Markdown Table Assignment
+
+User Data:
+John, 25, New York
+Alice, 30, Los Angeles
+Bob, 35, Chicago
